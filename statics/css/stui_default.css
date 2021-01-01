@@ -13,7 +13,7 @@ body{ padding-top: 80px}
 
 /* header-logo */
 .stui-header__logo,.stui-header__menu{float:left}
-.stui-header__logo{margin-top: 0}
+.stui-header__logo{margin-top: 5px}
 .stui-header__logo .logo{ display:block; width:150px; height:50px; background:url(https://p.pstatp.com/origin/138420002b6a697a03511) no-repeat; background-position:50% 50%; background-size:cover}
 
 /* header-menu */
