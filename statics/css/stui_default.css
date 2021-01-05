@@ -145,7 +145,7 @@ body{ padding-top: 80px}
 	.search_gbook{color: rgb(255, 102, 0);}
 	
 	/* desc */
-	.desc_tips{color: #AAAAAA; font-family: &quot; background-color: #FFFFFF;}
+	.desc_tips{color: #AAAAAA; background-color: #FFFFFF;}
 	
 	/* dmca */
 	.dmca{padding-top: 56.25%; background-color: #444;}
